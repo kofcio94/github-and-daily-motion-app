@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example application</string>
+    <string name="transition_dialog_root" translatable="false">dialog_transition_root</string>
+    <string name="transition_dialog_iv" translatable="false">dialog_transition_iv</string>
+</resources>

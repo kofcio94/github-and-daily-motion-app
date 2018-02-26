@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorDailyMotion">#004D40</color>
+    <color name="colorGitHub">#610d0d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dialogBackground">@android:color/white</color>
+    <color name="dialogBackgroundScrim">#99323232</color>
+</resources>
